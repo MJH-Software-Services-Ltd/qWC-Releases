@@ -1,7 +1,7 @@
 # qWC
 Emulation and extension to ⎕WC from Dyalog APL
 
-Take the Examples.pdf as they giveexamples of most of the controls
+Take the Examples.pdf as they give examples of most of the controls
 
 To install take the Zip and extract Output dir
 
