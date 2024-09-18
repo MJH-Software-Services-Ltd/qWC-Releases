@@ -15,8 +15,8 @@ On a Mac dpownload the same files
 Place the Output in a directory say as /Users/id/Output
 Put the QWC.dyalog and QWC.dcfg into /User/id/MyUCMDs and edit QWC.dcfg with the path and set the browser to Safari or Local (HTMLRenderer)
 
-On some releases of Dyalog 18 18.2 and 19 We are having rouble getting Safari to start and HTMLRenderer to start.
-If it starts and produces ** qWC initialized then this is good and this is the client screen
+On some releases of Dyalog 18 18.2 and 19 there is a bug preventing Safari or HTMLRenderer from starting automatically.
+If it starts and produces * qWC initialized then this is good and this is the client screen
 
 If it doesnt start properly then as a temp soln you need to enter qSafari '' after
 * Client Server started on port 1236
