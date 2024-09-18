@@ -32,4 +32,14 @@ If it doesnt start properly then as a temp soln you need to enter qSafari '' in 
  
     If so you are good to use the window after * qWC Initialized as before
 
-    MORE INFO will be added asap but we will help you with the installation.
+   Please note : Most if not all the examples use #.qWC/G/S but these actions can be done using#.qNew and ns.ns1.prop←action   as in fn.btn1.BCol←'red'
+  instead of 'fn.btn1' #.qWS 'BCol' 'red'
+  
+  :with 'f' #.qWC 'Form'
+       'b1' #.qWC 'Button' ('Style' 'Push')
+       'b2' #.qWC 'Button' 'Push' 
+  :endwith
+    is also supported 
+
+
+MORE INFO will be added asap but we will help you with the installation.
